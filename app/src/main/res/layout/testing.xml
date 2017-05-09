@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        fontPath="@string/font_productsans_bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:paddingRight="96dp"
+        android:paddingTop="16dp"
+        android:text="Lorem Ipsum Dolor Sit Amet Lorem Ipsum Dolor Sit Amet"
+        android:textColor="@color/primary_text"
+        android:textSize="18sp"
+        tools:ignore="MissingPrefix" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="Friday, 12 Oct 1992"
+        android:textColor="@color/seconday_text"
+        android:textSize="10sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:lineSpacingExtra="2dp"
+        android:text="adshfkaljsdhfkjadshfjkahsdfkjahsdkjfhalkjsdfajksdhfjkadshflkjahdskjfhaksjdfhklajdshfkjadshfkljadshfkjadshfkjadjakdhflkjahdslfkjahsdkjfhakjsdhflkajdshflkjahsdkjfhakljdsfhakjdshfkjahsdkjfhaskdjfhalksdjfhlakjsdhfkjadshflkajdshfjkadshfkjadshfkjahdsflkjahdslkjfhalskdjfhakjsdfhakljdfhlakjdsfhklajdhfkjashdfkljahdf"
+        android:textColor="@color/primary_text"
+        android:textSize="14sp" />
+
+</LinearLayout>
